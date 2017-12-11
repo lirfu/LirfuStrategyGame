@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LirfuGraph">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../LirfuGraph/out/artifacts/LirfuGraph_jar/LirfuGraph.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
